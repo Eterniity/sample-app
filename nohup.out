@@ -1,0 +1,8 @@
+ * Serving Flask app "password" (lazy loading)
+ * Environment: production
+   WARNING: This is a development server. Do not use it in a production deployment.
+   Use a production WSGI server instead.
+ * Debug mode: off
+ * Running on https://0.0.0.0:5001/ (Press CTRL+C to quit)
+127.0.0.1 - - [26/May/2023 22:10:07] "[37mPOST /signup/v1 HTTP/1.1[0m" 200 -
+127.0.0.1 - - [26/May/2023 22:12:10] "[37mPOST /login/v1 HTTP/1.1[0m" 200 -
